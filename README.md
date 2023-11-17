@@ -1,4 +1,5 @@
-- 👋 Hi, I’m Lazarina Batcheva
+Hi, I'm Lazarina Batcheva 👋
+
 - 👀 I’m interested in programming with Python
 - 🌱 I’m currently learning Python Advanced and OOP in SoftUni University
 - 📝 Python certificates:
