@@ -1,7 +1,7 @@
 Hi, I'm Lazarina Batcheva 👋
 
 - 👀 I’m interested in programming with Python
-- 🌱 I’m currently learning Python Advanced and OOP in SoftUni University
+- 🌱 I'm currently learning the Professional Module for Python Web Developer at SoftUni University.
 - 📝 Python certificates:
 
 <!---
