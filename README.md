@@ -2,7 +2,7 @@ Hi, I'm Lazarina Batcheva 👋
 
 - 👀 I’m interested in programming with Python
 - 🌱 I'm currently learning the Professional Module for Python Web Developer at SoftUni University.
-- 📝 Certificates:
+- 📝 Certificates for completed courses:
 
 <!---
 LazarinaBatcheva/LazarinaBatcheva is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
