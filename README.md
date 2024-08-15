@@ -9,6 +9,8 @@ LazarinaBatcheva/LazarinaBatcheva is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
+[Python ORM - June 2024 - Certificate](https://github.com/LazarinaBatcheva/LazarinaBatcheva/blob/main/Python%20ORM%20-%20June%202024%20-%20Certificate.jpeg)
+
 [PostgreSQL - May 2024 - Certificate](https://github.com/LazarinaBatcheva/LazarinaBatcheva/blob/main/PostgreSQL%20-%20May%202024%20-%20Certificate.jpeg)
 
 [JS Front-End - February 2024 - Certificate](https://github.com/LazarinaBatcheva/LazarinaBatcheva/blob/main/JS%20Front-End%20-%20February%202024%20-%20Certificate.jpeg)
