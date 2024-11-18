@@ -9,6 +9,8 @@ LazarinaBatcheva/LazarinaBatcheva is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
+[Django Basics - September 2024 - Certificate](https://github.com/LazarinaBatcheva/LazarinaBatcheva/blob/main/Django%20Basics%20-%20September%202024%20-%20Certificate.pdf)
+
 [Python ORM - June 2024 - Certificate](https://github.com/LazarinaBatcheva/LazarinaBatcheva/blob/main/Python%20ORM%20-%20June%202024%20-%20Certificate.pdf)
 
 [PostgreSQL - May 2024 - Certificate](https://github.com/LazarinaBatcheva/LazarinaBatcheva/blob/main/PostgreSQL%20-%20May%202024%20-%20Certificate.pdf)
