@@ -9,6 +9,8 @@ LazarinaBatcheva/LazarinaBatcheva is a ✨ special ✨ repository because its `R
 You can click the Preview link to take a look at your changes.
 --->
 
+[Certificate-Intern-Lazarina-Batcheva - 12/2024-03/2025](https://github.com/LazarinaBatcheva/LazarinaBatcheva/blob/main/Certificate-Intern-Lazarina-Batcheva.pdf)
+
 [Django Advanced - October 2024 - Certificate](https://github.com/LazarinaBatcheva/LazarinaBatcheva/blob/main/Django%20Advanced%20-%20October%202024%20-%20Certificate.pdf)
 
 [Django Basics - September 2024 - Certificate](https://github.com/LazarinaBatcheva/LazarinaBatcheva/blob/main/Django%20Basics%20-%20September%202024%20-%20Certificate.pdf)
